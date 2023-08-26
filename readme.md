@@ -64,6 +64,10 @@ Dikarenakan Gratisan Program ini memiliki limit
 1. Repeat Message
 2. AFK
 3. Chatbot auto reply
+4. Auto Forward
+5. Force Subscribe
+6. ADS
+7. dll
 
 
 ## Cara Run / Deploy
